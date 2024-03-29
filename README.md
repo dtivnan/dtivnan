@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Dylan Tivnan
-- 👀 I’m interested in any type of Software Engineering / IT 
 - 📫 How to reach me:
 -   dylantivnan.com
 -   tivnand@gmail.com
